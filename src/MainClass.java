@@ -9,6 +9,8 @@ public class MainClass
         a5.gazVer();
         a5.frenYap();
         a5.audiOtonom();
+
+        a3.audiOtonom();
     }
 
 
